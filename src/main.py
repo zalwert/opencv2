@@ -12,7 +12,7 @@ PICTURES_FOLDER = '\\Pictures\\'
 PNG = '_.png'
 IMG_SUBNAME = 'a_'
 SECONDS_TIME = 6000  # 10 minutes
-WINDOW_TITLE = 'Imou'
+WINDOW_TITLE = 'example window name'
 
 
 def take_screenshot(secs):
